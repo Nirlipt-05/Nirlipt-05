@@ -11,7 +11,7 @@
 
 - 📫 How to reach me *nirliptdas@gmail.com*
 
-- ⚡ Fun fact *I think I'm Funny*
+- ⚡ Fun fact *How do you spot a Java programmer at a party? They’re the ones constantly throwing exceptions! 🎉*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
